@@ -29,3 +29,12 @@ Sprint 3: Week 5–6
 - Create Task
 - View Task List
 - Mark Task Complete
+## Process Selection Justification
+
+We selected Scrum as the development process for this project.
+
+Scrum was chosen because it supports iterative and incremental development. 
+The project requirements may change during development, and Scrum allows the team to adapt quickly through short sprints and regular feedback.
+
+Scrum also improves team collaboration through daily communication and sprint reviews. 
+By delivering small increments of working software in each sprint, the team can continuously improve the product.
